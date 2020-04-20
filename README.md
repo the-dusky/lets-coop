@@ -1,2 +1,2 @@
 # lets-coop
-A turnkey solution for cooperative formation and operation.
+A turnkey solution for formation and operation of community cooperatives.
