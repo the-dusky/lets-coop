@@ -2,9 +2,12 @@
 A marketplace for turnkey applications that allow businesses to offer non-convention business models.
 
 # Example Apps
-## All Or Nothing - A commerce platform that encourages a markup and discount that balance for customers in need and those who can afford more
-## OurMoney - A banking app that anonymously (Enigma.co) shares of other users to help people learn the way others are successful
-## LetsCo-op Food - An ecomm and point of sale application that makes starting a food Co-op dead simple.
+## All Or Nothing
+  A commerce platform that encourages a markup and discount that balance for customers in need and those who can afford more
+## OurMoney
+  A banking app that anonymously (Enigma.co) shares of other users to help people learn the way others are successful
+## LetsCo-op Food
+  An ecomm and point of sale application that makes starting a food Co-op dead simple.
 
 # v0 plan
 The purpose of this project is to provide tools to people so they can take control of their future through local collaboration and coordination. In short, tools to co-op. 
